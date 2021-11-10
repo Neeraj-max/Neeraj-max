@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neeraj-max
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,Java,Kotlin,Flutter,Dart
 - 🌱 I’m currently learning Python and Improving My Skills
 - 💞️ I’m looking to collaborate with Developers
 - 📫 How to reach me through My GitHub Account
